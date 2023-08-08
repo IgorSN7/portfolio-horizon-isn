@@ -263,3 +263,8 @@ section.portfolio .flex{
 .overlay:hover{
     opacity: 1;
 }
+
+.overlay a{
+    color: white;
+    text-decoration: none;
+}
